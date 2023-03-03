@@ -1,0 +1,30 @@
+C:\Users\singhn\Desktop\loopconditional\conditional\bin\Debug\net6.0\conditional.exe
+C:\Users\singhn\Desktop\loopconditional\conditional\bin\Debug\net6.0\conditional.deps.json
+C:\Users\singhn\Desktop\loopconditional\conditional\bin\Debug\net6.0\conditional.runtimeconfig.json
+C:\Users\singhn\Desktop\loopconditional\conditional\bin\Debug\net6.0\conditional.dll
+C:\Users\singhn\Desktop\loopconditional\conditional\bin\Debug\net6.0\conditional.pdb
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.csproj.AssemblyReference.cache
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.AssemblyInfoInputs.cache
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.AssemblyInfo.cs
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.csproj.CoreCompileInputs.cache
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.dll
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\refint\conditional.dll
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.pdb
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\conditional.genruntimeconfig.cache
+C:\Users\singhn\Desktop\loopconditional\conditional\obj\Debug\net6.0\ref\conditional.dll
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\bin\Debug\net6.0\conditional.exe
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\bin\Debug\net6.0\conditional.deps.json
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\bin\Debug\net6.0\conditional.runtimeconfig.json
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\bin\Debug\net6.0\conditional.dll
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\bin\Debug\net6.0\conditional.pdb
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.csproj.AssemblyReference.cache
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.AssemblyInfoInputs.cache
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.AssemblyInfo.cs
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.csproj.CoreCompileInputs.cache
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.dll
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\refint\conditional.dll
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.pdb
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\conditional.genruntimeconfig.cache
+C:\Users\singhn\Desktop\loopconditional in c#\conditional\obj\Debug\net6.0\ref\conditional.dll
